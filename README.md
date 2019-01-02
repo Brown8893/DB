@@ -21,6 +21,11 @@ use world;
 
 show tables;
 
+DESCRIBE  city;
+
+Select * 
+from City;
+
 ```
 
 
