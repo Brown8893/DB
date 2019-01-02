@@ -1,3 +1,9 @@
+# 下載Mysql
+```
+https://dev.mysql.com/downloads/installer/
+```
+
+
 # 安裝Mysql
 ```
 C:\Program Files (x86)\MySQL\Samples and Examples 8.0\Sample Databases\World
