@@ -19,6 +19,12 @@ Show BATABASES;
 
 use world;
 
+world是mysql內建的範例資料庫
+總共有三個資料表(Tables):
+[1]City資料表
+[2]Country資料表
+[3]CountryLanguage資料表
+
 show tables;
 
 DESCRIBE  city;
@@ -26,6 +32,16 @@ DESCRIBE  city;
 Select * 
 from City;
 
+
+DESCRIBE Country;
+
+Select * 
+from Country;
+
+DESCRIBE  CountryLanguage;
+
+Select * 
+from CountryLanguage;
 ```
 
 
